@@ -3,14 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "dwicaksono-blog"
+  title: "dwicaksono"
+  site-url: https://dbcwicaksono.github.io/blog
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: youtube
+        href: https://youtube.com
+      - text: Resource
+        href: https://dbcwicaksono.github.io/blog/#
+      - text: Archive
+        href: https://dbcwicaksono.github.io/blog/#
 format:
   html:
     theme: cosmo
