@@ -19,6 +19,8 @@ website:
         href: https://dbcwicaksono.github.io/blog/#
       - text: Archive
         href: https://dbcwicaksono.github.io/blog/#
+      - text: Publications
+        href: https://dbcwicaksono.github.io/blog/#
 format:
   html:
     theme: cosmo

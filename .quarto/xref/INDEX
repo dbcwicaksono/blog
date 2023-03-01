@@ -13,5 +13,8 @@
   },
   "blog.qmd": {
     "blog.html": "0a22ab16"
+  },
+  "posts/matematika-dasar/index.qmd": {
+    "index.html": "799ceeae"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "hash": "3a1fd8498372f0b3798948e2df408539",
+  "result": {
+    "markdown": "---\ntitle: \"Matematika Dasar\"\nauthor: \"Dimas Wicaksono\"\ndate: \"2023-03-01\"\ncategories: [matematika, dasar, gizi]\n---\n\n\n# Sistem Bilangan Real\n\nSebelum membahas tentang sistem bilangan real, mari kita bersama-sama menjawab 2 pertanyaan berikut:\n\n-   Apakah anda pernah mendengar kata \"angka\"? Apakah itu \"angka\"?\n\n-   Apakah anda pernah mendengar kata \"bilangan\" dalam matematika? Apakah itu \"bilangan\"?\n\nMungkin kedua kata tersebut sudah pernah atau bahkan sering kita dengar terutama saat mempelajari tentang matematika. Namun apakah pengertian kita sudah mengetahui apa arti dari kedua kata tersebut. Angka merupakan simbol yang digunakan untuk melambangkan nilai (bilangan). Sedangkan bilangan adalah ekspresi matematika yang telah didefinisikan dan digunakan untuk melakukan perhitungan.\n\nDalam Matematika Dasar terdapat konsep dari himpunan obyek-obyek,\nkhususnya tentang konsep himpunan dari bilangan-bilangan yang banyak sekali diterapkan untuk matematika lebih lanjut maupun penerapan di bidang-bidang yang lain. Himpunan bilangan yang penting untuk diketahui adalah himpunan bilangan Asli, himpunan bilangan Cacah, himpunan bilangan Bulat, himpunan bilangan Rasional, himpunan bilangan Irrasional (tak terukur), dan himpunan bilangan Real. Sifat-sifat dari bilangan ini akan digunakan dalam Bentuk Pangkat, Penarikan Akar, dan Logaritma.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
