@@ -21,13 +21,13 @@ Setiap tulisan pada blog ini masih tidaklah sempurna. Saya sangat terbuka dalam 
 :::{.g-col-12 .g-col-md-5 .g-start-md-2}
 # Matematika Dasar
 
-#### <a href="#">Post 1</a>
+#### [Post 1](#)
   Pengenalan sistem bilangan riil serta sifat - sifatnya
   
-#### <a href="#">Post 2</a>
+#### [Post 2](#)
   Fungsi matematika dan terapannya pada ilmu gizi
   
-#### <a href="#">Post 3</a>
+#### [Post 3](#)
   Pengenalan limit fungsi dan terapannya pada ilmu gizi
 :::
 

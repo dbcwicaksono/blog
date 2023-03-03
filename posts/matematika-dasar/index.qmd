@@ -5,7 +5,7 @@ date: "2023-03-01"
 categories: [matematika, dasar, gizi]
 ---
 
-# 1. Sistem Bilangan Real
+# Sistem Bilangan Real
 
 Sebelum membahas tentang sistem bilangan real, mari kita bersama-sama menjawab 2 pertanyaan berikut:
 
